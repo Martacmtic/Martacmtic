@@ -1,0 +1,15 @@
+#hola {background-color: rgb(74, 225, 245)}
+#p1 {
+  font-family: fantasy;
+}
+#adios {background-color: rgb(150, 219, 252)}
+#flor {background-color: rgb(135, 228, 235)}
+#p2 {
+  font-family: monospace;
+}
+#arbol {background-color: rgb(39, 150, 241)}
+body {background-color: rgb(58, 255, 133)}
+.centrar{
+		    margin:auto;
+		    display:block;
+    }
